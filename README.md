@@ -37,7 +37,7 @@ Export your captured GIFs directly to your AWS S3 Bucket or using an FTP server 
 
 ## In-depth Documentation
 
-Interactive example queries, code examples (including PHP/CURL and jQuery.ajax) and integration guides are available at [giflayer.com/documentation](https://giflayer.com/documentation).
+Interactive example queries, code examples (including PHP, Ruby and Python) and integration guides are available at [giflayer.com/documentation](https://giflayer.com/documentation).
 
 ## Customer Support
 Need any assistance? [Get in touch with Customer Support](mailto:support@apilayer.net?subject=[giflayer]).
