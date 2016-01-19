@@ -6,7 +6,7 @@
 
 Find below a Ruby function that lets you capture a GIF and define all required and optional parameters:
 
-```php
+```ruby
 require 'cgi' unless defined?(CGI)
  
 def giflayer(url, options={})
